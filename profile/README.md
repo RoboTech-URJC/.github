@@ -12,7 +12,7 @@ Correo de contacto: robotechurjc@gmail.com
 <h1 align="center">Nuestros proyectos</h1>
 
 * [Proyecto Mano Zeus](https://twitter.com/robotech_urjc):
-* [Proyecto Robot Noah](https://twitter.com/robotech_urjc): Construcción de una flota de robots móviles, equipados con sensor de calidad de aire, cámara y laser.
+* [Proyecto Robot Noah](https://twitter.com/robotech_urjc): Construcción de una flota de robots móviles, equipados con sensor de calidad de aire, cámara y laser. El proposito general es utilizarlos como plataforma educativa de ROS y competiciones.
 * [Proyecto Huerto Oasis](https://twitter.com/robotech_urjc):
 * [Leds Race](https://twitter.com/robotech_urjc):
 
