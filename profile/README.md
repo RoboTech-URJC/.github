@@ -3,7 +3,7 @@
 <h1 align="center">¿Quienes somos?</h1>
 
 <p align="center"> 
-Asociación estudiantil, perteneciente a la universidad Rey Juan Carlos, destinada a proyectos de ciencia, tecnología y robótica. Puedes encontrarnos en el Sotano del Aulario I del Campus de Fuenlabrada
+Asociación estudiantil, perteneciente a la universidad Rey Juan Carlos, destinada a proyectos de ciencia, tecnología y robótica. Puedes encontrarnos en el Sotano del Aulario I del Campus de Fuenlabrada.
 </p>
 <p align="center"> 
 Correo de contacto: robotechurjc@gmail.com
@@ -13,7 +13,7 @@ Correo de contacto: robotechurjc@gmail.com
 
 * [Proyecto Mano Zeus](https://github.com/RoboTech-URJC/Mano-Zeus):
 * [Proyecto Robot Noah](https://github.com/RoboTech-URJC/noah_hardware): Construcción de una flota de robots móviles, equipados con sensor de calidad de aire, cámara y laser. El proposito general es utilizarlos como plataforma educativa de ROS y competiciones.
-* [Proyecto Huerto Oasis](https://github.com/RoboTech-URJC/Oasis): Diseño y construcción de un invernadero hidropónico robotizado. Su objetivo es investigar sobre formas de mejorar la agricultura gracias a la IA, la robótica y las energías renovables
+* [Proyecto Huerto Oasis](https://github.com/RoboTech-URJC/Oasis): Diseño y construcción de un invernadero hidropónico robotizado. Su objetivo es investigar sobre formas de mejorar la agricultura gracias a la IA, la robótica y las energías renovables.
 * [Leds Race](https://github.com/RoboTech-URJC/led-race):
 
 <h1 align="center">Conocenos mejor</h1>
