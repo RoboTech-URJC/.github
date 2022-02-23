@@ -11,10 +11,10 @@ Correo de contacto: robotechurjc@gmail.com
 
 <h1 align="center">Nuestros proyectos</h1>
 
-* [Proyecto Mano Zeus](https://twitter.com/robotech_urjc):
-* [Proyecto Robot Noah](https://twitter.com/robotech_urjc): Construcción de una flota de robots móviles, equipados con sensor de calidad de aire, cámara y laser. El proposito general es utilizarlos como plataforma educativa de ROS y competiciones.
-* [Proyecto Huerto Oasis](https://twitter.com/robotech_urjc): Diseño y construcción de un invernadero hidropónico robotizado y respetuoso con el medio ambiente. Su objetivo es investigar sobre formas de mejorar la agricultura gracias a la IA, la robótica y las energías renovables
-* [Leds Race](https://twitter.com/robotech_urjc):
+* [Proyecto Mano Zeus](https://github.com/RoboTech-URJC/Mano-Zeus):
+* [Proyecto Robot Noah](https://github.com/RoboTech-URJC/noah_hardware): Construcción de una flota de robots móviles, equipados con sensor de calidad de aire, cámara y laser. El proposito general es utilizarlos como plataforma educativa de ROS y competiciones.
+* [Proyecto Huerto Oasis](https://github.com/RoboTech-URJC/Oasis): Diseño y construcción de un invernadero hidropónico robotizado y lo más respetuoso posible con el medio ambiente. Su objetivo es investigar sobre formas de mejorar la agricultura gracias a la IA, la robótica y las energías renovables
+* [Leds Race](https://github.com/RoboTech-URJC/led-race):
 
 <h1 align="center">Conocenos mejor</h1>
 
