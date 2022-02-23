@@ -3,7 +3,10 @@
 <h1 align="center">¿Quienes somos?</h1>
 
 <p align="center"> 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Asociación estudiantil, perteneciente a la universidad Rey Juan Carlos, destinada a proyectos de ciencia, tecnología y robótica. Puedes encontrarnos en el Sotano del Aulario I del Campus de Fuenlabrada
+</p>
+<p align="center"> 
+Correo de contacto: robotechurjc@gmail.com
 </p>
 
 <h1 align="center">Nuestros proyectos</h1>
