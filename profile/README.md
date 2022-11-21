@@ -16,7 +16,6 @@ Correo de contacto: robotechurjc@gmail.com
 
 * [Proyecto Mano Zeus](https://github.com/RoboTech-URJC/Mano-Zeus): Basado en In Moov, ha sido realizado mediante división de tareas en equipos (impresión, hardware, software,...). Aún está en desarrollo, con objetivos como implementar lenguaje de signos, etc.
 * [Proyecto Robot Noah](https://github.com/RoboTech-URJC/noah_hardware): Construcción de una flota de robots móviles, equipados con sensor de calidad de aire, cámara y laser. El proposito general es utilizarlos como plataforma educativa de ROS y competiciones.
-* [Proyecto Huerto Oasis](https://github.com/RoboTech-URJC/Oasis): Diseño y construcción de un invernadero hidropónico robotizado. Su objetivo es investigar sobre formas de mejorar la agricultura gracias a la IA, la robótica y las energías renovables.
 * [Leds Race](https://github.com/RoboTech-URJC/led-race): Circuito formado por una tira de leds multicolor, sobre la que se realizan carreras con dos "coches" formados por leds, que se mueven con sus correspondientes pulsadores a través del circuito.
 
 <h1 align="center">Conocenos mejor</h1>
